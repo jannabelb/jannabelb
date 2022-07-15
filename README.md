@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jannabelb
-- 👀 I’m interested in music technology, movies. climate change, and data.
+- 👀 I’m interested in music technology, movies, climate change, and data.
 - 🌱 I’m currently learning Python and SQL. 
 - 💞️ I’m looking to collaborate on a climate change website. 
 
